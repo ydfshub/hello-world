@@ -8,6 +8,7 @@ public class HelloWorld {
 
 	public static int main(String[] argc) {
 		system.out.println("abc");
+		system.out.println("pr-test");
 		return 0;
 	}
 }
